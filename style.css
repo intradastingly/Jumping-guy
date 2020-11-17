@@ -1,0 +1,13 @@
+img {
+    align-self: flex-end;
+    display: flex;
+    position: fixed;
+    margin: 0;
+}
+
+body, html {
+    align-self: flex-end;
+    justify-content: center;
+    display: flex;
+    height: 100%;
+}
